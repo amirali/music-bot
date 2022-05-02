@@ -1,0 +1,18 @@
+anyio==3.5.0
+beautifulsoup4==4.11.1
+certifi==2021.10.8
+charset-normalizer==2.0.12
+h11==0.12.0
+httpcore==0.14.7
+httpx==0.22.0
+idna==3.3
+pyTelegramBotAPI==4.5.0
+requests==2.27.1
+rfc3986==1.5.0
+sniffio==1.2.0
+soupsieve==2.3.2.post1
+urllib3==1.26.9
+youtube-dl==2021.12.17
+youtube-search-python==1.6.5
+ytm @ git+https://github.com/tombulled/python-youtube-music.git@a7cf50b38dea0169b42f8c7e78cb5b9eeadcce7b
+ytmusicapi==0.21.0
