@@ -2,7 +2,7 @@ FROM python:alpine
 
 WORKDIR /bot
 
-RUN apk add --no-cache ffmpeg python3-dev git
+RUN apk add --no-cache ffmpeg git
 
 COPY . .
 
